@@ -48,3 +48,7 @@ print(reqList)
 
 for req in reqList:
     os.system(f"poetry add {req}")
+
+print("1")
+
+print("2")
